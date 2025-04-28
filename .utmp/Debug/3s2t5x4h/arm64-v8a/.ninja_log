@@ -1,0 +1,3 @@
+# ninja log v5
+0	142	1745418605330582877	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	1a2ff60d162a094a
+143	226	1745418605409362168	/Users/pixlog/GitHub/ardk-samples/Library/PramData/AndroidApplicationController/Cache/com.nianticlabs.ar.ardksamples/gradle-project/unityLibrary/build/intermediates/cxx/Debug/3s2t5x4h/obj/arm64-v8a/libswappywrapper.so	681a37946ce224a1

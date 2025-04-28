@@ -1,0 +1,5 @@
+/Users/pixlog/GitHub/ardk-samples/.utmp/Debug/3s2t5x4h/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/pixlog/GitHub/ardk-samples/.utmp/Debug/3s2t5x4h/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Users/pixlog/GitHub/ardk-samples/.utmp/Debug/3s2t5x4h/armeabi-v7a/FramePacing/CMakeFiles/swappywrapper.dir
+/Users/pixlog/GitHub/ardk-samples/.utmp/Debug/3s2t5x4h/armeabi-v7a/FramePacing/CMakeFiles/edit_cache.dir
+/Users/pixlog/GitHub/ardk-samples/.utmp/Debug/3s2t5x4h/armeabi-v7a/FramePacing/CMakeFiles/rebuild_cache.dir
